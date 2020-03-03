@@ -13,6 +13,8 @@
      ```
      Using Matplotlib and Seaborn
      ```
-- [x] Model Data
- 
+- [x] Machine Learning Algorithm
+
+- [x]  Model Data
+
 - [x] Interpretation and Inference 
